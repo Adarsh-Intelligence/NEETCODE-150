@@ -1,4 +1,4 @@
-# 🚀 NeetCode 150 Solutions & Roadmap Tracker
+# 🚀 NeetCode 150 Solutions & Roadmap Tracker  isko bhi kr rha hu
 
 [![NeetCode 150](https://img.shields.io/badge/Roadmap-NeetCode%20150-blue?style=for-the-badge&logo=leetcode)](https://neetcode.io/practice/practice/neetcode150) 
 [![Progress](https://img.shields.io/badge/Progress-1%20%2F%20150%20(0.7%25)-brightgreen?style=for-the-badge)](#-progress-overview) 
